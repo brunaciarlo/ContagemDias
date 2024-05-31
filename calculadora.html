@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/styleCalc.css">
+  <link rel="shortcut icon" href="ico-roxo.ico" type="image/x-icon">
+  <title>Contagem de dias</title>
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <img src="icon.png" alt="Icone">
+      <h1>Calcular entre datas</h1>
+    </div>
+    <a href="index.html"><button>Contagem regressiva</button></a>
+  </header>
+  <main>
+    <section>
+      <div class="selecionar-data">
+          <p>Calcular de: </p>
+          <input type="date" name="data-contagem" id="data-inicio"/>
+      </div>
+      <div class="selecionar-data">
+        <p>Até:</p>
+        <input type="date" name="data-contagem" id="data-final"/>
+        <button id="calcular">Calcular</button>
+      </div>
+    </section>
+    <section id="resultado" style="display: none;">
+      <p>Existem</p>
+      <p id="dias"></p>
+      <p id="datas"></p>
+    </section>
+  </main>
+  <footer>Desenvolvido por <a href="https://github.com/brunaciarlo" target="_blank">Bruna</a></footer>
+  <script src="scriptCalculadora.js"></script>
+</body>
+</html>
