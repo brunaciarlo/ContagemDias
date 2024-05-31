@@ -110,7 +110,7 @@ input[type="date"] {
     margin: 50px auto 0px auto;
     background-color: var(--verde02);
     max-width: 630px;
-    height: 250px;
+    min-height: 250px;
     border-radius: 10px;
 }
 #dias{
