@@ -2,7 +2,7 @@
 [CSS_BADGE]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JAVASCRIPT_BADGE]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://contagem-dias.vercel.app/
+[PROJECT__URL]: https://brunaciarlo.github.io/ContagemDias/
 
 <h1 align="center" style="font-weight: bold;">Contagem de dias 📅</h1>
 
